@@ -3,3 +3,7 @@
 
 testing testing
 hello
+
+```bash
+echo 'hello'
+```
