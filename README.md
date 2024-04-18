@@ -1,5 +1,21 @@
 # micke-test-repo
 
-This is a test repo for Micke
+testing testing
+hello
 
-hello world
+```bash
+echo 'hello'
+```
+
+it's me!
+
+[]: # To this snippet from README.md:
+[]: # hello
+[]: #
+
+check out the testing.md file for more info
+
+commit from site
+
+
+asd 1232145667
