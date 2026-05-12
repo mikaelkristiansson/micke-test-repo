@@ -1,3 +1,5 @@
-export function greet(name: string): string {
+type Name = string;
+
+export function greet(name: Name): string {
     return `Hello, ${name}!`;
 }
