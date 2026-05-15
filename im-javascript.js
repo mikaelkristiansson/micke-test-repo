@@ -5,5 +5,5 @@ export function greet(name) {
 }
 
 const internalFunction = () => {
-    console.log(thisIsInternal);
+    console.log(thisIsInternal+ ' How are you?');
 };
