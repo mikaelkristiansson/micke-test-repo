@@ -1,7 +1,8 @@
 const thisIsInternal = "string ok";
 
 export function greet(name) {
-    return `Hello, ${name}!`+' You are welcome!';
+    const text = `${name} - welcome`;
+    return text;
 }
 
 const internalFunction = () => {
