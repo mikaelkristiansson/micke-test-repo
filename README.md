@@ -10,7 +10,3 @@ echo 'hello'
 check out the testing.md file for more info
 
 commit from site
-
-
-asd 1232145667
-asdas
